@@ -1,7 +1,11 @@
 # 🌟 Hello, World! I'm Gagan Salian 👋
 
-![Header Image](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Profile)  
-*An aspiring Fullstack Developer ready to create innovative solutions!*
+![Header Image](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Profile)
+
+---
+
+## 📊 Programming Language Usage
+[![View Language Usage](https://via.placeholder.com/600x600.png?text=Click+to+View+Language+Usage)](https://vedantghodke.github.io/GitHub-Profile-Language-Percentage-Calculator/api.html?GaganSalian)
 
 ---
 
@@ -31,18 +35,16 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ---
-<iframe width="600" height="600" src="https://vedantghodke.github.io/GitHub-Profile-Language-Percentage-Calculator/api.html?GaganSalian" frameborder="0"></iframe>
+
 ## 📂 Featured Projects
 
 ### [✨ Travel Adviser](https://github.com/GaganSalian/travel_adviser)
-A React-based travel companion that helps you plan your adventures! Utilizes **Material-UI (v6.1.2)** and interactive maps.  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react) ![MUI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat-square&logo=material-ui)
+A React-based travel companion that helps you plan your adventures! Utilizes **Material-UI (v6.1.2)** and interactive maps.
 
 ---
 
 ### [🍽️ Restaurant Finder](https://github.com/GaganSalian/restaurant-finder)
-Discover your next meal! This project showcases restaurant listings, inspired by Swiggy, built with **React** and **Tailwind CSS**.  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css)
+Discover your next meal! This project showcases restaurant listings, inspired by Swiggy, built with **React** and **Tailwind CSS**.
 
 ---
 
