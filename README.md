@@ -31,7 +31,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ---
-
+<iframe width="600" height="600" src="https://vedantghodke.github.io/GitHub-Profile-Language-Percentage-Calculator/api.html?GaganSalian" frameborder="0"></iframe>
 ## 📂 Featured Projects
 
 ### [✨ Travel Adviser](https://github.com/GaganSalian/travel_adviser)
