@@ -1,64 +1,39 @@
 # 🌟 Hello, World! I'm Gagan Salian 👋
 
-![Header Image](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+Profile)
-
----
-
-## 📊 Programming Language Usage
-[![View Language Usage](https://via.placeholder.com/600x600.png?text=Click+to+View+Language+Usage)](https://vedantghodke.github.io/GitHub-Profile-Language-Percentage-Calculator/api.html?GaganSalian)
-
----
-
 ## 🔍 About Me
 - 🎓 Currently pursuing a **Bachelor's degree in Computer Applications (BCA)** at **Mangalore University** (Graduation: 2024).
-- 🌱 I’m eager to learn and grow in the world of **JavaScript**, **React**, **Express.js**, and **Tailwind CSS**.
-- 🌍 I’m working on an exciting project, **EcoPaper Crystal**, which aims to replace traditional screens with a **4-corner light system**—a step toward eco-friendly technology.
-- 🚀 My goal is to master **AI tools** for personal growth and ultimately become one of the **best developers** out there!
-
----
+- 🌱 Eager to grow in **JavaScript**, **React**, **Express.js**, and **Tailwind CSS**.
+- 🌍 Working on **EcoPaper Crystal**, a project aimed at replacing traditional screens with an eco-friendly **4-corner light system**.
+- 🚀 Passionate about becoming a skilled full-stack developer, with a focus on **AI tools** and continuous personal growth.
 
 ## 🛠️ Tech Stack & Tools
 ### Languages & Frameworks:
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+- **JavaScript**, **React**, **Node.js**, **Express.js**
 
 ### Styling:
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwindcss)
-![Styled Components](https://img.shields.io/badge/-Styled%20Components-black?style=flat-square&logo=styled-components)
+- **Tailwind CSS**, **Styled Components**
 
 ### Databases:
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+- **MongoDB (via Mongoose)**
 
 ### Version Control:
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-
----
+- **Git**, **npm**
 
 ## 📂 Featured Projects
 
 ### [✨ Travel Adviser](https://github.com/GaganSalian/travel_adviser)
-A React-based travel companion that helps you plan your adventures! Utilizes **Material-UI (v6.1.2)** and interactive maps.
-
----
+A React-based travel application using **Material-UI (v6.1.2)** and interactive maps to help users plan their trips.
 
 ### [🍽️ Restaurant Finder](https://github.com/GaganSalian/restaurant-finder)
-Discover your next meal! This project showcases restaurant listings, inspired by Swiggy, built with **React** and **Tailwind CSS**.
-
----
+A project built with **React** and **Tailwind CSS** that helps users explore restaurant listings and make dining decisions.
 
 ### [🌱 EcoPaper Crystal](https://github.com/GaganSalian/ecopaper-crystal)
-An innovative eco-friendly solution that reimagines how we interact with screens, using a **4-corner light system** to enhance user experience sustainably.
-
----
+A conceptual project exploring eco-friendly technology with a **4-corner light system** to revolutionize screen interaction sustainably.
 
 ## 📚 Learning Journey
-- 🌐 Diving deeper into **advanced JavaScript** concepts, **Flexbox**, and **Grid CSS**.
-- 🚀 Exploring **Augmented Reality** technology for e-commerce to enhance user engagement.
-- 🎯 Striving for a monthly salary of **₹200,000** in fullstack development while continuously improving my skills!
-
----
+- 🌐 Currently diving into **advanced JavaScript**, **Flexbox**, **Grid CSS**.
+- 🚀 Exploring **Augmented Reality** for e-commerce to create better user experiences.
+- 🎯 Continuously improving my skills to advance in full-stack development.
 
 ## 📬 Let’s Connect!
 - **Email**: [gagansalian04102005@gmail.com](mailto:gagansalian04102005@gmail.com)
@@ -67,8 +42,4 @@ An innovative eco-friendly solution that reimagines how we interact with screens
 
 ---
 
-*“The only way to do great work is to love what you do.” – Steve Jobs*
-
----
-
-Thank you for visiting my profile! I’m excited to connect and collaborate with like-minded individuals. 🚀
+Thank you for visiting my profile! I'm excited to connect and collaborate with like-minded individuals. 🚀
